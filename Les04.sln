@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening01-JSBundling", "Oefening01-JSBundling\Oefening01-JSBundling.csproj", "{DFFAA951-67C9-47A5-90C5-DAF3DB5258CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-JavaScript", "Demo-JavaScript\Demo-JavaScript.csproj", "{FFF1BCF9-C425-4CFF-ADEA-B675F214877C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DFFAA951-67C9-47A5-90C5-DAF3DB5258CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFFAA951-67C9-47A5-90C5-DAF3DB5258CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFFAA951-67C9-47A5-90C5-DAF3DB5258CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF1BCF9-C425-4CFF-ADEA-B675F214877C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF1BCF9-C425-4CFF-ADEA-B675F214877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF1BCF9-C425-4CFF-ADEA-B675F214877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF1BCF9-C425-4CFF-ADEA-B675F214877C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
